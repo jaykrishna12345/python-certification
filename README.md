@@ -1,2 +1,2 @@
 # python-certification
-interview questuons
+interview questions
